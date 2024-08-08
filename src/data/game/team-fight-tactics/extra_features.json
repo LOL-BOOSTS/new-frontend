@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 0,
+        "title": "Priority Boost",
+        "rate": 0.25,
+        "apply": false
+    },
+    {
+        "_id": 1,
+        "title": "Stream Games",
+        "rate": 0.25,
+        "apply": false
+    },
+    {
+        "_id": 2,
+        "title": "VPN",
+        "rate": 0,
+        "apply": false
+    },
+    {
+        "_id": 3,
+        "title": "Offline Mode",
+        "rate": 0,
+        "apply": false
+    }
+]

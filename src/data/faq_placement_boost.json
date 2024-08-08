@@ -1,0 +1,69 @@
+{
+    "league-of-legends": {
+        "faqs": [
+            {
+                "_id": 1,
+                "question": "How does a LoL Placement Boost work?",
+                "answer": "A League of Legends Placement Boost involves professional booster playing your account placement matches with a focus on achieving the highest possible win rate, typically aiming for at least 80%. This service is designed to secure an advantageous starting rank for you."
+            },
+            {
+                "_id": 2,
+                "question": "How long does a LoL Placement Boost usually take?",
+                "answer": "The completion time for a League of Legends Placement Boost depends on the number of wins required, but it typically takes less than 24 hours to complete."
+            },
+            {
+                "_id": 3,
+                "question": "Where can I see my LoL Placement Boost progress?",
+                "answer": "You can track the progress of your League of Legends Placement Boost and communicate with your booster by accessing your personal dashboard profile."
+            },
+            {
+                "_id": 4,
+                "question": "Is LoL Placement Boost a safe service to use?",
+                "answer": "Definitely! Yes, LoL Placement Boost is safe with LOL BOOST. Our professional boosters use advanced security measures, including VPNs and strict protocols, to maintain your accounts protected throughout the boost process."
+            }
+        ]
+    },
+    "valorant": {
+        "faqs": [
+            {
+                "_id": 1,
+                "question": "How long does a Valorant Placement Boost typically take?",
+                "answer": "We target the quickest completion time possible, usually finishing a Valorant Placement Boost within an average of 24 hours."
+            },
+            {
+                "_id": 2,
+                "question": "Where can I track the progress of my Valorant Placement Boost?",
+                "answer": "You can track the progress of your Valorant Placement Boost through your personal dashboard profile and chat with your booster."
+            },
+            {
+                "_id": 3,
+                "question": "Is Valorant Placement Boost a safe service?",
+                "answer": "Definitely! Yes, Valorant Placement Boost is safe with LOL BOOSTS. Our professional boosters use advanced security measures, including VPNs and strict protocols, to maintain your accounts protected throughout the boost process."
+            }
+        ]
+    },
+    "team-fight-tactics": {
+        "faqs": [
+            {
+                "_id": 1,
+                "question": "How does a TFT Placement Boost work?",
+                "answer": "A TFT Placement Boost involves professional booster playing your account placement matches with a focus on achieving the highest possible win rate, typically aiming for at least 80%. This service is designed to secure an advantageous starting rank for you."
+            },
+            {
+                "_id": 2,
+                "question": "How long does a TFT Placement Boost usually take?",
+                "answer": "The completion time for a Teamfight Tactics (TFT) Placement Boost depends on the number of wins required, but it typically takes less than 24 hours to complete."
+            },
+            {
+                "_id": 3,
+                "question": "Where can I see my TFT Placement Boost progress?",
+                "answer": "You can track the progress of your TFT Placement Boost and communicate with your booster by accessing your personal dashboard profile."
+            },
+            {
+                "_id": 4,
+                "question": "Is TFT Placement Boost a safe service to use?",
+                "answer": "Definitely! Yes, TFT Placement Boost is safe with LOL BOOSTS. Our professional boosters use advanced security measures, including VPNs and strict protocols, to maintain your accounts protected throughout the boost process."
+            }
+        ]
+    }
+}

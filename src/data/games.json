@@ -1,0 +1,17 @@
+[
+    {
+        "title": "League of Legends",
+        "url": "league-of-legends",
+        "icon": "/images/icon/league-of-legends.png"
+    },
+    {
+        "title": "Valorant",
+        "url": "valorant",
+        "icon": "/images/icon/valorant.png"
+    },
+    {
+        "title": "Teamfight Tactics",
+        "url": "team-fight-tactics",
+        "icon": "/images/icon/tft.png"
+    }
+]

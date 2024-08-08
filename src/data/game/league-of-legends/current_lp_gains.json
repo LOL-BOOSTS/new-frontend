@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 0,
+        "title": "1-18 (Very Low) [+40%]",
+        "vlaue": "verylow",
+        "rate": 0.4
+    },
+    {
+        "_id": 1,
+        "title": "18-22 (Low) [+20%]",
+        "vlaue": "low",
+        "rate": 0.2
+    },
+    {
+        "_id": 2,
+        "title": "22-29 (Normal) [+0%]",
+        "vlaue": "normal",
+        "rate": 0
+    },
+    {
+        "_id": 3,
+        "title": "30+ (High) [-20%]",
+        "vlaue": "high",
+        "rate": -0.2
+    }
+]

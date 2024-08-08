@@ -1,0 +1,89 @@
+{
+    "league-of-legends": {
+        "faqs": [
+            {
+                "_id": 1,
+                "question": "How does LoL Rank Boost work?",
+                "answer": "First select your current rank and the rank you want to achieve, along with any additional addons that will improve the boost. After purchase, we will assign you to a booster who will start working on your order."
+            },
+            {
+                "_id": 2,
+                "question": "How long does a LoL Rank Boost usually take?",
+                "answer": "The duration of a League of Legends rank boost can vary, typically ranging from 1 to 2 days. Factors influencing the timeframe include your starting rank and desired rank."
+            },
+            {
+                "_id": 3,
+                "question": "Can I still play the game while my LoL Rank Boost is in progress?",
+                "answer": "Yes, you can continue playing the game while your League of Legends rank boost is active. It’s important to talk to your Booster through your personal dashboard account to avoid simultaneous account logins."
+            },
+            {
+                "_id": 4,
+                "question": "How can I track the progress of my LoL Rank Boost?",
+                "answer": "You can monitor the progress of your League of Legends rank boost and communicate with your booster directly through your personal dashboard profile."
+            },
+            {
+                "_id": 5,
+                "question": "is LoL Rank Boost Safe?",
+                "answer": "Definitely! Yes, LoL Rank Boost is safe with LOL BOOSTS. Our professional boosters use advanced security measures, including VPNs and strict protocols, to maintain your accounts protected throughout the boost process."
+            }
+        ]
+    },
+    "valorant": {
+        "faqs": [
+            {
+                "_id": 1,
+                "question": "How does Valorant Rank Boost work?",
+                "answer": "First select your current rank and the rank you want to achieve, along with any additional addons that will improve the boost. After purchase, we will assign you to a booster who will start working on your order."
+            },
+            {
+                "_id": 2,
+                "question": "How long does a Valorant Rank Boost usually take?",
+                "answer": "The typical duration for a Valorant rank boost is between 1-2 days. However, the actual time required can vary depending on how many ranks you want to climb."
+            },
+            {
+                "_id": 3,
+                "question": "Can I still play the game while my Valorant Rank Boost is in progress?",
+                "answer": "Yes, you can continue playing the game while your valorant rank boost is active. It’s important to talk to your Booster through your personal dashboard account to avoid simultaneous account logins."
+            },
+            {
+                "_id": 4,
+                "question": "How can I track the progress of my Valorant Rank Boost?",
+                "answer": "You can monitor the progress of your Valorant rank boost and talk with your booster directly through your personal dashboard profile."
+            },
+            {
+                "_id": 5,
+                "question": "is Valorant Rank Boost Safe?",
+                "answer": "Definitely! Yes, Valorant Rank Boost is safe with LOL BOOSTS. Our professional boosters use advanced security measures, including VPNs and strict protocols, to maintain your accounts protected throughout the boost process."
+            }
+        ]
+    },
+    "team-fight-tactics": {
+        "faqs": [
+            {
+                "_id": 1,
+                "question": "How does TFT rank boost work?",
+                "answer": "First select your current rank and the rank you want to achieve, along with any additional addons that will improve the boost. After purchase, we will assign you to a booster who will start working on your order."
+            },
+            {
+                "_id": 2,
+                "question": "How long does a TFT Rank Boost usually take?",
+                "answer": "The duration of a TFT rank boost can vary, typically ranging from 1 to 2 days. Factors influencing the timeframe include your starting rank and desired rank."
+            },
+            {
+                "_id": 3,
+                "question": "Can I still play the game while my TFT Rank Boost is in progress?",
+                "answer": "Yes, you can continue playing the game while your TFT rank boost is active. It’s important to talk to your Booster through your personal dashboard account to avoid simultaneous account logins."
+            },
+            {
+                "_id": 4,
+                "question": "How can I track the progress of my TFT Rank Boost?",
+                "answer": "You can monitor the progress of your TFT rank boost and communicate with your booster directly through your personal dashboard profile."
+            },
+            {
+                "_id": 5,
+                "question": "is TFT Rank Boost Safe?",
+                "answer": "Definitely! Yes, TFT Rank Boost is safe with LOL BOOSTS. Our professional boosters use advanced security measures, including VPNs and strict protocols, to maintain your accounts protected throughout the boost process."
+            }
+        ]
+    }
+}

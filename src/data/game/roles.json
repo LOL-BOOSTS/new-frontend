@@ -1,0 +1,27 @@
+[
+    {
+        "_id": 0,
+        "title": "ADC",
+        "icon": "/images/boosting/role/adc.png"
+    },
+    {
+        "_id": 1,
+        "title": "Jungle",
+        "icon": "/images/boosting/role/jungle.png"
+    },
+    {
+        "_id": 2,
+        "title": "Support",
+        "icon": "/images/boosting/role/support.png"
+    },
+    {
+        "_id": 3,
+        "title": "Middle",
+        "icon": "/images/boosting/role/middle.png"
+    },
+    {
+        "_id": 4,
+        "title": "Top",
+        "icon": "/images/boosting/role/top.png"
+    }
+]

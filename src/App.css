@@ -1,0 +1,34 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+* {
+    font-family: 'Inter';
+    scroll-behavior: smooth;
+}
+
+/* Custom scrollbar styles for WebKit browsers */
+::-webkit-scrollbar {
+    width: 8px;
+    /* Width of the scrollbar */
+    height: 5px;
+    /* Height of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: #090136;
+    /* Background of the scrollbar track */
+    /* Rounded corners for the track */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #102286;
+    /* Color of the scrollbar thumb */
+    border-radius: 10px;
+    /* Rounded corners for the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #09077c;
+    /* Color of the thumb on hover */
+}

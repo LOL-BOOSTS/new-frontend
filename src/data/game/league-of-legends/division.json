@@ -1,0 +1,22 @@
+[
+    {
+        "_id": 0,
+        "mark": "IV",
+        "value": 4
+    },
+    {
+        "_id": 1,
+        "mark": "III",
+        "value": 3
+    },
+    {
+        "_id": 2,
+        "mark": "II",
+        "value": 2
+    },
+    {
+        "_id": 3,
+        "mark": "I",
+        "value": 1
+    }
+]

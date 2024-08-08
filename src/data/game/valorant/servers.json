@@ -1,0 +1,30 @@
+[
+    {
+        "_id": 0,
+        "name": "North America",
+        "value": "na",
+        "type": "na",
+        "rate": 0
+    },
+    {
+        "_id": 1,
+        "name": "Europa",
+        "type": "eu",
+        "value": "euw",
+        "rate": 0
+    },
+    {
+        "_id": 2,
+        "name": "Asia Pacific",
+        "value": "eune",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 3,
+        "name": "Brazil",
+        "value": "br",
+        "type": "eu",
+        "rate": 0
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "_id": 0,
+        "name": "North America",
+        "value": "na",
+        "type": "na",
+        "rate": 0
+    },
+    {
+        "_id": 1,
+        "name": "Europe West",
+        "type": "eu",
+        "value": "euw",
+        "rate": 0
+    },
+    {
+        "_id": 2,
+        "name": "Europe Nordic East",
+        "value": "eune",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 3,
+        "name": "Oceania",
+        "value": "oce",
+        "type": "na",
+        "rate": 0
+    },
+    {
+        "_id": 4,
+        "name": "Russia",
+        "value": "ru",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 5,
+        "name": "Turkey",
+        "value": "tr",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 6,
+        "name": "Brazil",
+        "value": "br",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 7,
+        "name": "Latin America North",
+        "value": "lan",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 8,
+        "name": "Latin America South",
+        "value": "las",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 9,
+        "name": "Japan",
+        "value": "jp",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 10,
+        "name": "Vietnam",
+        "value": "vn",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 11,
+        "name": "Philippines",
+        "value": "ph",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 12,
+        "name": "Singapore",
+        "value": "sg",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 13,
+        "name": "Thailand",
+        "value": "th",
+        "type": "eu",
+        "rate": 0
+    },
+    {
+        "_id": 14,
+        "name": "Taiwan",
+        "value": "tw",
+        "type": "eu",
+        "rate": 0
+    }
+]
