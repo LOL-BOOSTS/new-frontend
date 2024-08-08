@@ -46,9 +46,6 @@ const Checkout = () => {
     if (discount) return;
     if (applycode) {
       setDiscount(true);
-      timeout = setTimeout(() => {
-        setDiscount(false);
-      }, 3000);
     }
   };
 
@@ -89,12 +86,16 @@ const Checkout = () => {
 
     price += extra_price;
 
+    if (discount) {
+      price -= price * 0.2;
+    }
+
     setPrice(Math.round(price * 100) / 100);
   };
 
   useEffect(() => {
     calcTotalPrice();
-  }, [current_rank, placement_match, server, extraFeatures]);
+  }, [current_rank, placement_match, server, extraFeatures, discount]);
 
   const handleBuyBoost = () => {
     // decide user login or not
@@ -188,30 +189,28 @@ const Checkout = () => {
         <b>~1 day</b>
       </div>
       <div className="py-4">
-        <div className="flex flex-col gap-2">
-          <label htmlFor="" className="text-sm text-gray-500">
-            Discount Code
-          </label>
-          <div className=" flex items-center gap-2 justify-between">
-            <input
-              className="px-3 py-1 w-full rounded-md text-sm bg-indigo-950"
-              placeholder="Enter Code BOOST20 to get a 20% discount"
-              name="applycode"
-              onChange={handleChange}
-            />
-            <button
-              className="px-3 py-1 bg-indigo-800 text-sm rounded-md"
-              onClick={handleApply}
-            >
-              Apply
-            </button>
+        {!discount ? (
+          <div className="flex flex-col gap-2">
+            <label htmlFor="" className="text-sm text-gray-500">
+              Discount Code
+            </label>
+            <div className=" flex items-center gap-2 justify-between">
+              <input
+                className="px-3 py-1 w-full rounded-md text-sm bg-indigo-950"
+                placeholder="Enter Code BOOST20 to get a 20% discount"
+                name="applycode"
+                onChange={handleChange}
+              />
+              <button
+                className="px-3 py-1 bg-indigo-800 text-sm rounded-md"
+                onClick={handleApply}
+              >
+                Apply
+              </button>
+            </div>
           </div>
-        </div>
-        {discount && (
-          <div
-            className="mt-5 text-center py-4 px-6 border-green-600 border rounded-lg bg-gradient-to-b from-green-900 to-green-[#ddd] relative text-green-400"
-            data-aos="fade-in"
-          >
+        ) : (
+          <div className="mt-5 text-center py-4 px-6 border-green-600 border rounded-lg bg-gradient-to-b from-green-900 to-green-[#ddd] relative text-green-400">
             -20% discount applied successfully 🎉
             <button
               className="absolute top-1/2 right-[10px] hover:text-green-300 -translate-x-1/2 -translate-y-1/2"
