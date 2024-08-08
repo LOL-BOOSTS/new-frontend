@@ -10,7 +10,10 @@ import rank from "../../../../data/game/league-of-legends/rank.json";
 import _lpExtra from "../../../../data/game/league-of-legends/lpExtra.json";
 import ModalChampionRole from "../../../../components/game/league-of-legends/ModalChampionRole";
 import { setChampions, setRoles } from "../../../../redux/slice/game/lolSlice";
-import { setLoginModal } from "../../../../redux/slice/globalSlice";
+import {
+  setCheckoutModal,
+  setLoginModal,
+} from "../../../../redux/slice/globalSlice";
 
 const Checkout = () => {
   const [discount, setDiscount] = useState(false);
@@ -101,7 +104,8 @@ const Checkout = () => {
 
   const handleBuyBoost = () => {
     // decide user login or not
-    dispatch(setLoginModal(true));
+    // dispatch(setLoginModal(true));
+    dispatch(setCheckoutModal(true));
   };
 
   return (

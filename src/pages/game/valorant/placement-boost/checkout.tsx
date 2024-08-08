@@ -7,7 +7,10 @@ import extra_features from "../../../../data/game/league-of-legends/extra_featur
 
 // Import variable
 
-import { setLoginModal } from "../../../../redux/slice/globalSlice";
+import {
+  setCheckoutModal,
+  setLoginModal,
+} from "../../../../redux/slice/globalSlice";
 import ModalAgent from "../../../../components/game/valorant/ModalAgent";
 import { setAgents } from "../../../../redux/slice/game/valorantSlice";
 
@@ -97,7 +100,8 @@ const Checkout = () => {
 
   const handleBuyBoost = () => {
     // decide user login or not
-    dispatch(setLoginModal(true));
+    // dispatch(setLoginModal(true));
+    dispatch(setCheckoutModal(true));
   };
 
   return (

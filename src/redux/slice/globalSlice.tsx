@@ -2,6 +2,7 @@ import { PayloadAction, createSlice } from "@reduxjs/toolkit";
 
 const initialState: any = {
   loginModal: false,
+  checkoutModal: false,
   game: null,
 };
 
@@ -13,12 +14,15 @@ const globalSlice = createSlice({
     setLoginModal: (state: any, action: PayloadAction<any>) => {
       state.loginModal = action.payload;
     },
+    setCheckoutModal: (state: any, action: PayloadAction<any>) => {
+      state.checkoutModal = action.payload;
+    },
     setGame: (state: any, action: PayloadAction<any>) => {
       state.game = action.payload;
     },
   },
 });
 
-export const { setLoginModal, setGame } = globalSlice.actions;
+export const { setLoginModal, setCheckoutModal, setGame } = globalSlice.actions;
 
 export default globalSlice.reducer;

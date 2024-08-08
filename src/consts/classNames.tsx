@@ -11,4 +11,6 @@ export default {
     "px-4 lg:px-8 py-2 lg:py-3 rounded-lg text-sm bg-indigo-700 text-white hover:bg-indigo-800 overflow-hidden text-ellipsis whitespace-nowrap",
   hoverClass: "hover:text-indigo-400",
   inputClass: "px-4 py-2 w-full rounded-lg bg-transparent",
+  textareaClas:
+    "px-4 py-2 w-full rounded-lg bg-transparent overflow-y-auto overflow-x-hidden min-h-[120px]",
 };

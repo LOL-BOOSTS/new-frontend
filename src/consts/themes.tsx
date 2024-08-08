@@ -20,7 +20,7 @@ export default {
     },
     footer: {
       base: "flex items-center space-x-2 rounded-b border-gray-200 p-6 dark:border-gray-600",
-      popup: "border-t",
+      popup: "border-t border-indigo-600",
     },
   },
 };

@@ -8,7 +8,10 @@ import extra_features from "../../../../data/game/team-fight-tactics/extra_featu
 // Import variable
 import rank from "../../../../data/game/team-fight-tactics/rank.json";
 import { setChampions, setRoles } from "../../../../redux/slice/game/lolSlice";
-import { setLoginModal } from "../../../../redux/slice/globalSlice";
+import {
+  setCheckoutModal,
+  setLoginModal,
+} from "../../../../redux/slice/globalSlice";
 
 const Checkout = () => {
   const [discount, setDiscount] = useState(false);
@@ -129,7 +132,8 @@ const Checkout = () => {
 
   const handleBuyBoost = () => {
     // decide user login or not
-    dispatch(setLoginModal(true));
+    // dispatch(setLoginModal(true));
+    dispatch(setCheckoutModal(true));
   };
 
   return (

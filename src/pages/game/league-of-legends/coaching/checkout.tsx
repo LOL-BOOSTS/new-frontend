@@ -8,7 +8,10 @@ import { useDispatch, useSelector } from "react-redux";
 import rank from "../../../../data/game/league-of-legends/rank.json";
 import ModalChampionRole from "../../../../components/game/league-of-legends/ModalChampionRole";
 import { setChampions, setRoles } from "../../../../redux/slice/game/lolSlice";
-import { setLoginModal } from "../../../../redux/slice/globalSlice";
+import {
+  setCheckoutModal,
+  setLoginModal,
+} from "../../../../redux/slice/globalSlice";
 import _coaching from "../../../../data/game/league-of-legends/coaching.json";
 
 const Checkout = () => {
@@ -76,7 +79,8 @@ const Checkout = () => {
 
   const handleBuyBoost = () => {
     // decide user login or not
-    dispatch(setLoginModal(true));
+    // dispatch(setLoginModal(true));
+    dispatch(setCheckoutModal(true));
   };
 
   return (

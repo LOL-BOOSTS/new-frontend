@@ -6,7 +6,10 @@ import { useDispatch, useSelector } from "react-redux";
 import extra_features from "../../../../data/game/team-fight-tactics/extra_features.json";
 
 // Import variable
-import { setLoginModal } from "../../../../redux/slice/globalSlice";
+import {
+  setCheckoutModal,
+  setLoginModal,
+} from "../../../../redux/slice/globalSlice";
 
 const Checkout = () => {
   const [discount, setDiscount] = useState(false);
@@ -95,7 +98,8 @@ const Checkout = () => {
 
   const handleBuyBoost = () => {
     // decide user login or not
-    dispatch(setLoginModal(true));
+    // dispatch(setLoginModal(true));
+    dispatch(setCheckoutModal(true));
   };
 
   return (
