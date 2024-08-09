@@ -33,6 +33,8 @@ import TFT from "./pages/game/teamfight-tactics";
 import TFTRankBoost from "./pages/game/teamfight-tactics/rank-boost";
 import TFTWinBoost from "./pages/game/teamfight-tactics/win-boost";
 import TFTPlacementBoost from "./pages/game/teamfight-tactics/placement-boost";
+import AllBoosters from "./pages/game/boosters/list";
+import SingleBooster from "./pages/game/boosters/detail";
 const Router = () => {
   return (
     <BrowserRouter>
@@ -71,6 +73,9 @@ const Router = () => {
           <Route path="hiring" element={<Hiring />} />
           <Route path="track-order" element={<TrackOrder />} />
           <Route path="imprint" element={<Imprint />} />
+          {/* NEW PAGES */}
+          <Route path="boosters" element={<AllBoosters />} />
+          <Route path="boosters/:id" element={<SingleBooster />} />
         </Route>
 
         <Route path="*" element={<NotFound />} />

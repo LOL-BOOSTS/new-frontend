@@ -1,0 +1,561 @@
+[
+    {
+        "_id": 1,
+        "level": 15,
+        "avatar": "/images/boosters/avatars/1.jpg",
+        "score": 4.8,
+        "online": true,
+        "name": "Shivern",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "43 Successful boosts",
+            "txt_mat": "Kindred, Kayn, Graves, +2",
+            "txt_lan": "English, French"
+        },
+        "roles": [
+            "adc",
+            "support",
+            "top"
+        ]
+    },
+    {
+        "_id": 2,
+        "level": 10,
+        "avatar": "/images/boosters/avatars/2.jpg",
+        "score": 4.2,
+        "online": false,
+        "name": "Zypher",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "30 Successful boosts",
+            "txt_mat": "Lee Sin, Rengar, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "jungle",
+            "middle"
+        ]
+    },
+    {
+        "_id": 3,
+        "level": 18,
+        "avatar": "/images/boosters/avatars/3.jpg",
+        "score": 4.9,
+        "online": true,
+        "name": "Aeloria",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "50 Successful boosts",
+            "txt_mat": "Ezreal, Jhin, +3",
+            "txt_lan": "French, Spanish"
+        },
+        "roles": [
+            "adc",
+            "support"
+        ]
+    },
+    {
+        "_id": 4,
+        "level": 5,
+        "avatar": "/images/boosters/avatars/4.jpg",
+        "score": 3.7,
+        "online": false,
+        "name": "Ragnarok",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "20 Successful boosts",
+            "txt_mat": "Darius, Garen, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "top",
+            "middle"
+        ]
+    },
+    {
+        "_id": 5,
+        "level": 12,
+        "avatar": "/images/boosters/avatars/5.jpg",
+        "score": 4.5,
+        "online": true,
+        "name": "Nimble",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "38 Successful boosts",
+            "txt_mat": "Kha'Zix, Rengar, +2",
+            "txt_lan": "English, German"
+        },
+        "roles": [
+            "jungle",
+            "adc"
+        ]
+    },
+    {
+        "_id": 6,
+        "level": 14,
+        "avatar": "/images/boosters/avatars/6.jpg",
+        "score": 4.6,
+        "online": true,
+        "name": "Frostbite",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "45 Successful boosts",
+            "txt_mat": "Ashe, Jhin, +2",
+            "txt_lan": "English, Italian"
+        },
+        "roles": [
+            "adc",
+            "support"
+        ]
+    },
+    {
+        "_id": 7,
+        "level": 9,
+        "avatar": "/images/boosters/avatars/7.jpg",
+        "score": 3.9,
+        "online": false,
+        "name": "Blaze",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "25 Successful boosts",
+            "txt_mat": "Zed, Akali, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "middle",
+            "jungle"
+        ]
+    },
+    {
+        "_id": 8,
+        "level": 11,
+        "avatar": "/images/boosters/avatars/1.jpg",
+        "score": 4.1,
+        "online": true,
+        "name": "Shadow",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "32 Successful boosts",
+            "txt_mat": "Lux, Morgana, +2",
+            "txt_lan": "English, French"
+        },
+        "roles": [
+            "support",
+            "middle"
+        ]
+    },
+    {
+        "_id": 9,
+        "level": 17,
+        "avatar": "/images/boosters/avatars/2.jpg",
+        "score": 4.7,
+        "online": true,
+        "name": "Titan",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "48 Successful boosts",
+            "txt_mat": "Gragas, Sejuani, +3",
+            "txt_lan": "English, Spanish"
+        },
+        "roles": [
+            "jungle",
+            "top"
+        ]
+    },
+    {
+        "_id": 10,
+        "level": 6,
+        "avatar": "/images/boosters/avatars/3.jpg",
+        "score": 3.6,
+        "online": false,
+        "name": "Nova",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "19 Successful boosts",
+            "txt_mat": "Irelia, Riven, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "top",
+            "adc"
+        ]
+    },
+    {
+        "_id": 11,
+        "level": 13,
+        "avatar": "/images/boosters/avatars/4.jpg",
+        "score": 4.3,
+        "online": true,
+        "name": "Tempest",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "36 Successful boosts",
+            "txt_mat": "Kennen, Jayce, +2",
+            "txt_lan": "English, German"
+        },
+        "roles": [
+            "middle",
+            "support"
+        ]
+    },
+    {
+        "_id": 12,
+        "level": 8,
+        "avatar": "/images/boosters/avatars/5.jpg",
+        "score": 3.8,
+        "online": false,
+        "name": "Phoenix",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "28 Successful boosts",
+            "txt_mat": "Vayne, Kai'Sa, +1",
+            "txt_lan": "French"
+        },
+        "roles": [
+            "adc",
+            "jungle"
+        ]
+    },
+    {
+        "_id": 13,
+        "level": 19,
+        "avatar": "/images/boosters/avatars/6.jpg",
+        "score": 4.9,
+        "online": true,
+        "name": "Elysium",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "55 Successful boosts",
+            "txt_mat": "Caitlyn, Jhin, +3",
+            "txt_lan": "English, Spanish"
+        },
+        "roles": [
+            "adc",
+            "top"
+        ]
+    },
+    {
+        "_id": 14,
+        "level": 4,
+        "avatar": "/images/boosters/avatars/7.jpg",
+        "score": 3.5,
+        "online": false,
+        "name": "Gladiator",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "15 Successful boosts",
+            "txt_mat": "Nasus, Renekton, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "top",
+            "middle"
+        ]
+    },
+    {
+        "_id": 15,
+        "level": 16,
+        "avatar": "/images/boosters/avatars/1.jpg",
+        "score": 4.4,
+        "online": true,
+        "name": "Vortex",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "42 Successful boosts",
+            "txt_mat": "Zyra, Seraphine, +2",
+            "txt_lan": "English, German"
+        },
+        "roles": [
+            "support",
+            "middle"
+        ]
+    },
+    {
+        "_id": 16,
+        "level": 3,
+        "avatar": "/images/boosters/avatars/2.jpg",
+        "score": 3.6,
+        "online": false,
+        "name": "Wraith",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "18 Successful boosts",
+            "txt_mat": "Teemo, Rumble, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "top",
+            "jungle"
+        ]
+    },
+    {
+        "_id": 17,
+        "level": 20,
+        "avatar": "/images/boosters/avatars/3.jpg",
+        "score": 5.0,
+        "online": true,
+        "name": "Oracle",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "60 Successful boosts",
+            "txt_mat": "Akali, Zed, +3",
+            "txt_lan": "English, French"
+        },
+        "roles": [
+            "middle",
+            "support"
+        ]
+    },
+    {
+        "_id": 18,
+        "level": 2,
+        "avatar": "/images/boosters/avatars/4.jpg",
+        "score": 3.4,
+        "online": false,
+        "name": "Rebel",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "12 Successful boosts",
+            "txt_mat": "Gnar, Gragas, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "top",
+            "adc"
+        ]
+    },
+    {
+        "_id": 19,
+        "level": 14,
+        "avatar": "/images/boosters/avatars/5.jpg",
+        "score": 4.6,
+        "online": true,
+        "name": "Specter",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "40 Successful boosts",
+            "txt_mat": "Rakan, Lulu, +2",
+            "txt_lan": "English, Spanish"
+        },
+        "roles": [
+            "support",
+            "middle"
+        ]
+    },
+    {
+        "_id": 20,
+        "level": 11,
+        "avatar": "/images/boosters/avatars/6.jpg",
+        "score": 4.0,
+        "online": false,
+        "name": "Berserker",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "29 Successful boosts",
+            "txt_mat": "Jax, Fiora, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "top",
+            "jungle"
+        ]
+    },
+    {
+        "_id": 21,
+        "level": 9,
+        "avatar": "/images/boosters/avatars/7.jpg",
+        "score": 3.9,
+        "online": true,
+        "name": "Nemesis",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "27 Successful boosts",
+            "txt_mat": "Kassadin, Veigar, +2",
+            "txt_lan": "English, French"
+        },
+        "roles": [
+            "middle",
+            "support"
+        ]
+    },
+    {
+        "_id": 22,
+        "level": 19,
+        "avatar": "/images/boosters/avatars/1.jpg",
+        "score": 4.8,
+        "online": true,
+        "name": "Fury",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "52 Successful boosts",
+            "txt_mat": "Rengar, Kha'Zix, +3",
+            "txt_lan": "English, Spanish"
+        },
+        "roles": [
+            "jungle",
+            "top"
+        ]
+    },
+    {
+        "_id": 23,
+        "level": 7,
+        "avatar": "/images/boosters/avatars/2.jpg",
+        "score": 3.8,
+        "online": false,
+        "name": "Vanguard",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "22 Successful boosts",
+            "txt_mat": "Morgana, Thresh, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "support",
+            "middle"
+        ]
+    },
+    {
+        "_id": 24,
+        "level": 16,
+        "avatar": "/images/boosters/avatars/3.jpg",
+        "score": 4.4,
+        "online": true,
+        "name": "Guardian",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "47 Successful boosts",
+            "txt_mat": "Nautilus, Leona, +2",
+            "txt_lan": "English, German"
+        },
+        "roles": [
+            "support",
+            "top"
+        ]
+    },
+    {
+        "_id": 25,
+        "level": 12,
+        "avatar": "/images/boosters/avatars/4.jpg",
+        "score": 4.1,
+        "online": false,
+        "name": "Revenant",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "35 Successful boosts",
+            "txt_mat": "Fiora, Jax, +2",
+            "txt_lan": "English, French"
+        },
+        "roles": [
+            "top",
+            "jungle"
+        ]
+    },
+    {
+        "_id": 26,
+        "level": 8,
+        "avatar": "/images/boosters/avatars/5.jpg",
+        "score": 3.7,
+        "online": true,
+        "name": "Dynamo",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "26 Successful boosts",
+            "txt_mat": "Zyra, Soraka, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "support",
+            "middle"
+        ]
+    },
+    {
+        "_id": 27,
+        "level": 17,
+        "avatar": "/images/boosters/avatars/6.jpg",
+        "score": 4.9,
+        "online": true,
+        "name": "Prowler",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "53 Successful boosts",
+            "txt_mat": "Rengar, Lee Sin, +3",
+            "txt_lan": "English, Spanish"
+        },
+        "roles": [
+            "jungle",
+            "top"
+        ]
+    },
+    {
+        "_id": 28,
+        "level": 6,
+        "avatar": "/images/boosters/avatars/7.jpg",
+        "score": 3.5,
+        "online": false,
+        "name": "Titanium",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "20 Successful boosts",
+            "txt_mat": "Gnar, Trundle, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "top",
+            "middle"
+        ]
+    },
+    {
+        "_id": 29,
+        "level": 15,
+        "avatar": "/images/boosters/avatars/1.jpg",
+        "score": 4.5,
+        "online": true,
+        "name": "Archer",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "40 Successful boosts",
+            "txt_mat": "Ezreal, Ashe, +2",
+            "txt_lan": "English, French"
+        },
+        "roles": [
+            "adc",
+            "support"
+        ]
+    },
+    {
+        "_id": 30,
+        "level": 1,
+        "avatar": "/images/boosters/avatars/2.jpg",
+        "score": 3.3,
+        "online": false,
+        "name": "Rogue",
+        "rank": "lgrandmaster.webm",
+        "skills": {
+            "txt_success": "10 Successful boosts",
+            "txt_mat": "Teemo, Rumble, +1",
+            "txt_lan": "English"
+        },
+        "roles": [
+            "top",
+            "jungle"
+        ]
+    },
+    {
+        "_id": 31,
+        "level": 18,
+        "avatar": "/images/boosters/avatars/3.jpg",
+        "score": 4.2,
+        "online": true,
+        "name": "Blitz",
+        "rank": "lchallenger.webm",
+        "skills": {
+            "txt_success": "49 Successful boosts",
+            "txt_mat": "Kha'Zix, Rengar, +3",
+            "txt_lan": "English, Spanish"
+        },
+        "roles": [
+            "jungle",
+            "middle"
+        ]
+    }
+]
