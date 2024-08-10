@@ -1,5 +1,5 @@
 export default {
-  containerClass: "container px-4 xl:px-0 mx-auto",
+  containerClass: "container px-4 xl:px-2 mx-auto",
   bgDarkClass: "bg-indigo-950",
   borderLClass: "border-indigo-300",
   borderMClass: "border-indigo-500",

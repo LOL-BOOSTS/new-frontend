@@ -1,5 +1,6 @@
 import {
   FaArtstation,
+  FaGlobe,
   FaHandSparkles,
   FaLanguage,
   FaStar,
@@ -65,8 +66,11 @@ const CardBooster = (props: any) => {
           <div className="flex items-center gap-4">
             <FaArtstation /> {props?.skills?.txt_mat}
           </div>
-          <div className="flex items-center gap-4">
+          {/* <div className="flex items-center gap-4">
             <FaLanguage /> {props?.skills?.txt_lan}
+          </div> */}
+          <div className="flex items-center gap-4">
+            <FaGlobe /> {props?.skills?.txt_region}
           </div>
         </div>
         <div className="flex justify-center gap-2">

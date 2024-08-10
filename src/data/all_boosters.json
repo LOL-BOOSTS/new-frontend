@@ -10,7 +10,8 @@
         "skills": {
             "txt_success": "43 Successful boosts",
             "txt_mat": "Kindred, Kayn, Graves, +2",
-            "txt_lan": "English, French"
+            "txt_lan": "English, French",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "adc",
@@ -29,7 +30,8 @@
         "skills": {
             "txt_success": "30 Successful boosts",
             "txt_mat": "Lee Sin, Rengar, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "jungle",
@@ -47,7 +49,8 @@
         "skills": {
             "txt_success": "50 Successful boosts",
             "txt_mat": "Ezreal, Jhin, +3",
-            "txt_lan": "French, Spanish"
+            "txt_lan": "French, Spanish",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "adc",
@@ -65,7 +68,8 @@
         "skills": {
             "txt_success": "20 Successful boosts",
             "txt_mat": "Darius, Garen, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "top",
@@ -83,7 +87,8 @@
         "skills": {
             "txt_success": "38 Successful boosts",
             "txt_mat": "Kha'Zix, Rengar, +2",
-            "txt_lan": "English, German"
+            "txt_lan": "English, German",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "jungle",
@@ -101,7 +106,8 @@
         "skills": {
             "txt_success": "45 Successful boosts",
             "txt_mat": "Ashe, Jhin, +2",
-            "txt_lan": "English, Italian"
+            "txt_lan": "English, Italian",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "adc",
@@ -119,7 +125,8 @@
         "skills": {
             "txt_success": "25 Successful boosts",
             "txt_mat": "Zed, Akali, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "middle",
@@ -137,7 +144,8 @@
         "skills": {
             "txt_success": "32 Successful boosts",
             "txt_mat": "Lux, Morgana, +2",
-            "txt_lan": "English, French"
+            "txt_lan": "English, French",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "support",
@@ -155,7 +163,8 @@
         "skills": {
             "txt_success": "48 Successful boosts",
             "txt_mat": "Gragas, Sejuani, +3",
-            "txt_lan": "English, Spanish"
+            "txt_lan": "English, Spanish",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "jungle",
@@ -173,7 +182,8 @@
         "skills": {
             "txt_success": "19 Successful boosts",
             "txt_mat": "Irelia, Riven, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "top",
@@ -191,7 +201,8 @@
         "skills": {
             "txt_success": "36 Successful boosts",
             "txt_mat": "Kennen, Jayce, +2",
-            "txt_lan": "English, German"
+            "txt_lan": "English, German",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "middle",
@@ -209,7 +220,8 @@
         "skills": {
             "txt_success": "28 Successful boosts",
             "txt_mat": "Vayne, Kai'Sa, +1",
-            "txt_lan": "French"
+            "txt_lan": "French",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "adc",
@@ -227,7 +239,8 @@
         "skills": {
             "txt_success": "55 Successful boosts",
             "txt_mat": "Caitlyn, Jhin, +3",
-            "txt_lan": "English, Spanish"
+            "txt_lan": "English, Spanish",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "adc",
@@ -245,7 +258,8 @@
         "skills": {
             "txt_success": "15 Successful boosts",
             "txt_mat": "Nasus, Renekton, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "top",
@@ -263,7 +277,8 @@
         "skills": {
             "txt_success": "42 Successful boosts",
             "txt_mat": "Zyra, Seraphine, +2",
-            "txt_lan": "English, German"
+            "txt_lan": "English, German",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "support",
@@ -281,7 +296,8 @@
         "skills": {
             "txt_success": "18 Successful boosts",
             "txt_mat": "Teemo, Rumble, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "top",
@@ -299,7 +315,8 @@
         "skills": {
             "txt_success": "60 Successful boosts",
             "txt_mat": "Akali, Zed, +3",
-            "txt_lan": "English, French"
+            "txt_lan": "English, French",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "middle",
@@ -317,7 +334,8 @@
         "skills": {
             "txt_success": "12 Successful boosts",
             "txt_mat": "Gnar, Gragas, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "top",
@@ -335,7 +353,8 @@
         "skills": {
             "txt_success": "40 Successful boosts",
             "txt_mat": "Rakan, Lulu, +2",
-            "txt_lan": "English, Spanish"
+            "txt_lan": "English, Spanish",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "support",
@@ -353,7 +372,8 @@
         "skills": {
             "txt_success": "29 Successful boosts",
             "txt_mat": "Jax, Fiora, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "top",
@@ -371,7 +391,8 @@
         "skills": {
             "txt_success": "27 Successful boosts",
             "txt_mat": "Kassadin, Veigar, +2",
-            "txt_lan": "English, French"
+            "txt_lan": "English, French",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "middle",
@@ -389,7 +410,8 @@
         "skills": {
             "txt_success": "52 Successful boosts",
             "txt_mat": "Rengar, Kha'Zix, +3",
-            "txt_lan": "English, Spanish"
+            "txt_lan": "English, Spanish",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "jungle",
@@ -407,7 +429,8 @@
         "skills": {
             "txt_success": "22 Successful boosts",
             "txt_mat": "Morgana, Thresh, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "support",
@@ -425,7 +448,8 @@
         "skills": {
             "txt_success": "47 Successful boosts",
             "txt_mat": "Nautilus, Leona, +2",
-            "txt_lan": "English, German"
+            "txt_lan": "English, German",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "support",
@@ -443,7 +467,8 @@
         "skills": {
             "txt_success": "35 Successful boosts",
             "txt_mat": "Fiora, Jax, +2",
-            "txt_lan": "English, French"
+            "txt_lan": "English, French",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "top",
@@ -461,7 +486,8 @@
         "skills": {
             "txt_success": "26 Successful boosts",
             "txt_mat": "Zyra, Soraka, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "support",
@@ -479,7 +505,8 @@
         "skills": {
             "txt_success": "53 Successful boosts",
             "txt_mat": "Rengar, Lee Sin, +3",
-            "txt_lan": "English, Spanish"
+            "txt_lan": "English, Spanish",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "jungle",
@@ -497,7 +524,8 @@
         "skills": {
             "txt_success": "20 Successful boosts",
             "txt_mat": "Gnar, Trundle, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "top",
@@ -515,7 +543,8 @@
         "skills": {
             "txt_success": "40 Successful boosts",
             "txt_mat": "Ezreal, Ashe, +2",
-            "txt_lan": "English, French"
+            "txt_lan": "English, French",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "adc",
@@ -533,7 +562,8 @@
         "skills": {
             "txt_success": "10 Successful boosts",
             "txt_mat": "Teemo, Rumble, +1",
-            "txt_lan": "English"
+            "txt_lan": "English",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "top",
@@ -551,7 +581,8 @@
         "skills": {
             "txt_success": "49 Successful boosts",
             "txt_mat": "Kha'Zix, Rengar, +3",
-            "txt_lan": "English, Spanish"
+            "txt_lan": "English, Spanish",
+            "txt_region": "EUNE, EUW, NA"
         },
         "roles": [
             "jungle",
