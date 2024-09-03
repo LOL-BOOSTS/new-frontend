@@ -1,0 +1,8 @@
+{
+    "galaxy.meteor.com": {
+      "env": {
+        "MONGO_URL": "mongodb+srv://janolekolb:XNzVYSHbfrIvr60s@cluster0.mmfzz7a.mongodb.net/lolboosts?retryWrites=true&w=majority",
+        "MAIL_URL": "smtps://info@lol-boosts.com:lolboos7!@mail.privateemail.com:465"
+      }
+    }
+  }
