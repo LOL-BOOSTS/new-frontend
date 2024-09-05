@@ -19,7 +19,7 @@ const Description = () => {
             for players who want to progress quickly, overcome skill barriers,
             or gain access to more competitive and challenging gameplay. The
             service typically involves expert players who use their experience
-            and knowledge to boost the account’s rank efficiently.
+            and knowledge to boost the account&apos;s rank efficiently.
           </p>
         </div>
         <div className="space-y-4">
@@ -28,11 +28,11 @@ const Description = () => {
           </strong>
           <p>
             Achieve your desired Valorant rank faster with our expert boosting
-            service. Whether you're aiming to climb the ranks quickly or break
-            through a tough plateau, our skilled professionals will help you
-            reach your goals efficiently. Experience the thrill of higher-level
-            play and unlock new opportunities in the game with our tailored
-            boost service.
+            service. Whether you&apos;re aiming to climb the ranks quickly or
+            break through a tough plateau, our skilled professionals will help
+            you reach your goals efficiently. Experience the thrill of
+            higher-level play and unlock new opportunities in the game with our
+            tailored boost service.
           </p>
         </div>
         <div className="space-y-4">
@@ -43,8 +43,9 @@ const Description = () => {
             Reach new heights on the ranking ladder with our specialized
             Valorant boost service. Elevate your gameplay and climb the ranks
             faster with the help of our experienced professionals. Whether
-            you’re striving for a personal best or aiming to conquer new tiers,
-            we’ll guide you to your next peak with precision and expertise.
+            you&apos;re striving for a personal best or aiming to conquer new
+            tiers, we&apos;ll guide you to your next peak with precision and
+            expertise.
           </p>
         </div>
         <div className="space-y-4">

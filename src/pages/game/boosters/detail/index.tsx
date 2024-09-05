@@ -62,7 +62,7 @@ const SingleBooster = () => {
             <FaMapMarked /> Jungle, Midlane
           </div>
           <div className="flex justify-start items-center gap-2">
-            <FaArtstation /> Graves, Rek'Sai, Brand, +1
+            <FaArtstation /> Graves, Rek&apos;Sai, Brand, +1
           </div>
         </div>
         <div className="mt-12">
@@ -75,8 +75,8 @@ const SingleBooster = () => {
           <p className="mt-6 text-gray-400">
             Hey there, i am Dante. Happy to take care of your orders on EUW-EUNE
             and NA server. If you assign me i will reply as fast as possible.
-            Diana and Rek'sai, especially Graves are the champs i play all the
-            time. choose me, you won't regret it!
+            Diana and Rek&apos;sai, especially Graves are the champs i play all
+            the time. choose me, you won&apos;t regret it!
           </p>
         </div>
         <div className="mt-12">

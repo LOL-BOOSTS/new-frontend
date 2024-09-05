@@ -29,14 +29,14 @@ const Description = () => {
           </strong>
           <p>
             TFT Division Boost is a specific type of rank boosting service
-            focused on advancing a player's division within Teamfight Tactics
-            (TFT). It involves expert players who play on your account to help
-            you move up from your current division to a higher one. This service
-            aims to improve your overall rank and achieve specific division
-            goals, providing you with a faster path to reaching higher levels of
-            competitive play. It's ideal for players looking to break through a
-            particular division or enhance their standings with the help of
-            experienced boosters.
+            focused on advancing a player&apos;s division within Teamfight
+            Tactics (TFT). It involves expert players who play on your account
+            to help you move up from your current division to a higher one. This
+            service aims to improve your overall rank and achieve specific
+            division goals, providing you with a faster path to reaching higher
+            levels of competitive play. It&apos;s ideal for players looking to
+            break through a particular division or enhance their standings with
+            the help of experienced boosters.
           </p>
         </div>
         <div className="space-y-4">
@@ -94,10 +94,10 @@ const Description = () => {
           <strong className="text-lg text-white">Reach Higher Levels</strong>
           <div className="space-y-4">
             Reach higher levels with ease through our professional rank boost
-            service. Whether you're aiming for new personal bests or striving to
-            break into top-tier ranks, our expert team will help you elevate
-            your gameplay and achieve your goals faster. Experience enhanced
-            performance and progress with minimal effort on your part.
+            service. Whether you&apos;re aiming for new personal bests or
+            striving to break into top-tier ranks, our expert team will help you
+            elevate your gameplay and achieve your goals faster. Experience
+            enhanced performance and progress with minimal effort on your part.
           </div>
         </div>
         <div className="space-y-4">
@@ -109,8 +109,8 @@ const Description = () => {
             services. Gain valuable insights and strategies from highly skilled
             players who can help you refine your skills and elevate your
             gameplay. By studying their techniques and receiving personalized
-            feedback, you'll accelerate your improvement and reach new heights
-            in your game..
+            feedback, you&apos;ll accelerate your improvement and reach new
+            heights in your game..
           </div>
         </div>
         <div className="space-y-4">

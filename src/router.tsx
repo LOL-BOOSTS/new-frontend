@@ -35,6 +35,7 @@ import TFTWinBoost from "./pages/game/teamfight-tactics/win-boost";
 import TFTPlacementBoost from "./pages/game/teamfight-tactics/placement-boost";
 import AllBoosters from "./pages/game/boosters/list";
 import SingleBooster from "./pages/game/boosters/detail";
+import LeveledAccounts from "./pages/leveled-accounts";
 const Router = () => {
   return (
     <BrowserRouter>
@@ -76,6 +77,7 @@ const Router = () => {
           {/* NEW PAGES */}
           <Route path="boosters" element={<AllBoosters />} />
           <Route path="boosters/:id" element={<SingleBooster />} />
+          <Route path="leveled-accounts" element={<LeveledAccounts />} />
         </Route>
 
         <Route path="*" element={<NotFound />} />

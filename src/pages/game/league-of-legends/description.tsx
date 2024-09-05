@@ -171,9 +171,9 @@ const Description = () => {
             Better Gaming Environment
           </strong>
           <div className="space-y-4">
-            Achieving a higher rank through LoL Rank Boost means you'll compete
-            with and against more skilled players. This elevated ranking can
-            also enhance your understanding of the game.
+            Achieving a higher rank through LoL Rank Boost means you&apos;ll
+            compete with and against more skilled players. This elevated ranking
+            can also enhance your understanding of the game.
           </div>
         </div>
       </div>

@@ -1,0 +1,301 @@
+{
+    "servers": [
+        {
+            "_id": 0,
+            "name": "NA"
+        },
+        {
+            "_id": 1,
+            "name": "EUW"
+        },
+        {
+            "_id": 2,
+            "name": "EUNE"
+        },
+        {
+            "_id": 3,
+            "name": "OCE"
+        },
+        {
+            "_id": 4,
+            "name": "BR"
+        },
+        {
+            "_id": 5,
+            "name": "RU"
+        },
+        {
+            "_id": 6,
+            "name": "TR"
+        },
+        {
+            "_id": 7,
+            "name": "LAN"
+        },
+        {
+            "_id": 8,
+            "name": "LAS"
+        }
+    ],
+    "MMR": [
+        {
+            "_id": 0,
+            "title": "Fresh"
+        },
+        {
+            "_id": 1,
+            "title": "2300"
+        },
+        {
+            "_id": 2,
+            "title": "2400"
+        },
+        {
+            "_id": 3,
+            "title": "2500"
+        }
+    ],
+    "levels": [
+        {
+            "_id": 0,
+            "level": "Handlevel"
+        },
+        {
+            "_id": 1,
+            "level": "SMURF"
+        }
+    ],
+    "accounts": [
+        {
+            "_id": 0,
+            "title": "Handleveled",
+            "beTitle": "40.000 + BE",
+            "MMR": 2300,
+            "level": "HAND LVLD",
+            "server": "NA",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 40.99
+        },
+        {
+            "_id": 1,
+            "title": "Smurf Account",
+            "beTitle": "30.000 + BE",
+            "MMR": 2400,
+            "level": "SMURF",
+            "server": "EUW",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 25.99
+        },
+        {
+            "_id": 2,
+            "title": "Handleveled",
+            "beTitle": "50.000 + BE",
+            "MMR": 2500,
+            "level": "HAND LVLD",
+            "server": "EUNE",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 45.99
+        },
+        {
+            "_id": 3,
+            "title": "Smurf Account",
+            "beTitle": "35.000 + BE",
+            "MMR": 2300,
+            "level": "SMURF",
+            "server": "OCE",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 22.99
+        },
+        {
+            "_id": 4,
+            "title": "Handleveled",
+            "beTitle": "60.000 + BE",
+            "MMR": 2400,
+            "level": "HAND LVLD",
+            "server": "BR",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 48.99
+        },
+        {
+            "_id": 5,
+            "title": "Smurf Account",
+            "beTitle": "25.000 + BE",
+            "MMR": 2500,
+            "level": "SMURF",
+            "server": "RU",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 29.99
+        },
+        {
+            "_id": 6,
+            "title": "Handleveled",
+            "beTitle": "70.000 + BE",
+            "MMR": 2300,
+            "level": "HAND LVLD",
+            "server": "TR",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 50.99
+        },
+        {
+            "_id": 7,
+            "title": "Smurf Account",
+            "beTitle": "20.000 + BE",
+            "MMR": 2400,
+            "level": "SMURF",
+            "server": "LAN",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 19.99
+        },
+        {
+            "_id": 8,
+            "title": "Handleveled",
+            "beTitle": "45.000 + BE",
+            "MMR": 2500,
+            "level": "HAND LVLD",
+            "server": "LAS",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 42.99
+        },
+        {
+            "_id": 9,
+            "title": "Smurf Account",
+            "beTitle": "40.000 + BE",
+            "MMR": 2300,
+            "level": "SMURF",
+            "server": "NA",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 35.99
+        },
+        {
+            "_id": 10,
+            "title": "Handleveled",
+            "beTitle": "55.000 + BE",
+            "MMR": 2400,
+            "level": "HAND LVLD",
+            "server": "EUW",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 46.99
+        },
+        {
+            "_id": 11,
+            "title": "Smurf Account",
+            "beTitle": "32.000 + BE",
+            "MMR": 2500,
+            "level": "SMURF",
+            "server": "EUNE",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 27.99
+        },
+        {
+            "_id": 12,
+            "title": "Handleveled",
+            "beTitle": "48.000 + BE",
+            "MMR": 2300,
+            "level": "HAND LVLD",
+            "server": "OCE",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 41.99
+        },
+        {
+            "_id": 13,
+            "title": "Smurf Account",
+            "beTitle": "29.000 + BE",
+            "MMR": 2400,
+            "level": "SMURF",
+            "server": "BR",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 24.99
+        },
+        {
+            "_id": 14,
+            "title": "Handleveled",
+            "beTitle": "65.000 + BE",
+            "MMR": 2500,
+            "level": "HAND LVLD",
+            "server": "RU",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 53.99
+        },
+        {
+            "_id": 15,
+            "title": "Smurf Account",
+            "beTitle": "38.000 + BE",
+            "MMR": 2300,
+            "level": "SMURF",
+            "server": "TR",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 33.99
+        },
+        {
+            "_id": 16,
+            "title": "Handleveled",
+            "beTitle": "52.000 + BE",
+            "MMR": 2400,
+            "level": "HAND LVLD",
+            "server": "LAN",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 44.99
+        },
+        {
+            "_id": 17,
+            "title": "Smurf Account",
+            "beTitle": "21.000 + BE",
+            "MMR": 2500,
+            "level": "SMURF",
+            "server": "LAS",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 17.99
+        },
+        {
+            "_id": 18,
+            "title": "Handleveled",
+            "beTitle": "30.000 + BE",
+            "MMR": "Fresh",
+            "level": "HAND LVLD",
+            "server": "NA",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 20.99
+        },
+        {
+            "_id": 19,
+            "title": "Smurf Account",
+            "beTitle": "28.000 + BE",
+            "MMR": "Fresh",
+            "level": "SMURF",
+            "server": "EUW",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 18.99
+        },
+        {
+            "_id": 20,
+            "title": "Handleveled",
+            "beTitle": "50.000 + BE",
+            "MMR": 2400,
+            "level": "HAND LVLD",
+            "server": "EUNE",
+            "lifeTime": "Lifetime Warranty",
+            "verified": true,
+            "price": 20.45
+        }
+    ]
+}
